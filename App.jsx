@@ -147,8 +147,8 @@ export default function App() {
               cleaning plan that fits your property.
             </p>
             <div className="contact-lines">
-              <p><strong>Phone:</strong> 207-523-0091</p>
-              <p><strong>Email:</strong> nticegwam@gmail.com</p>
+              <p><strong>Phone:</strong> 207-408-4722</p>
+              <p><strong>Email:</strong> prolinecleaningsolutions.me@gmail.com</p>
             </div>
           </div>
 
